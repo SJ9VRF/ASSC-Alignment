@@ -1,4 +1,4 @@
-# Agentic Self-Supervised Correction - ASSC - Alignment
+# Agentic Self-Supervised Correction (ASSC) - Alignment
 
 
 
